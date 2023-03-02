@@ -136,7 +136,7 @@ if __name__ == '__main__':
             script_to_spreadsheet(header=header, transcript_name=filename, spreadsheet_name=spreadsheet_name, sheet_name=sheet_name)
             speak("Import finished, please check.")
 
-        elif all([re.search(w, query) for w in ['open', 'spreadsheet']]) or all([re.search(w, query) for w in ['open', 'excel']]):
+        elif all([re.search(w, query) for w in ['open', 'spreadsheet']]) or all([re.search(w, query) for w in ['open', 'excel']]) or all([re.search(w, query) for w in ['edit', 'spreadsheet']]):
             speak("Which spreadsheet do you want to open?")
             spreadsheet_name = input("Enter the name of the spreadsheet: ")  
             speak("Which sheet do you want to edit?")
