@@ -31,19 +31,19 @@ Genomics Metadata Multiplexing technical work
    
 4. Record audio and trannscribe speech to text
 
-    Human : I want to take notes
+		Human : I want to take notes
     
     The voice assistant will gennerate a {yyyy-mm-dd-hh-mm-ss}.txt file.
     
 5. Send and check email
 
-    Human : I want to [send/check] emails
+		Human : I want to [send/check] emails
     
 6. Import text file to spreadsheet
 
-    Human : Import transcript to [excel/spreadsheet]
+		Human : Import transcript to [excel/spreadsheet]
     
 7. Edit cells in spreadsheet
 
-    Human : I want to [Open/Edit] [excel/spreadsheet]
+		Human : I want to [Open/Edit] [excel/spreadsheet]
 
