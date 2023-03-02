@@ -1,0 +1,2 @@
+well id well underscore 4 cell ID mpn am L16 PL78 underscore 1 a plate barcode CG a GAC backslash backslash plus CATCC plate ID plate 6 add feature experiment add feature investigator
+cell ID mpn am L16 PL78 underscore 1 a plate id plate 6 well id well underscore 4 comment this one fell on the floor experiment RNA extraction investigator Johnson
