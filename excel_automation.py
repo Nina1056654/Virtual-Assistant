@@ -102,7 +102,7 @@ def script_to_spreadsheet(header='', transcript_name='', spreadsheet_name='', sh
             if list(val_dict.values())[i] is None:
                 if cell.value is None:
                     cell.value = None
-            elif list(val_dict.keys())[i] == 'comment':
+            elif list(val_dict.keys())[i] == 'comment': # format comment to sentence
                 if cell.value is None:
                     cell.value = list(val_dict.values())[i].capitalize() + '.' if (not list(val_dict.values())[i].endswith('.')) else list(val_dict.values())[i].capitalize()
                 else:
