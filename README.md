@@ -48,4 +48,4 @@ Genomics Metadata Multiplexing technical work
 		Human : I want to [Open/Edit] [excel/spreadsheet]
 		
 
-Talon scripts folder contains Python scripts and Talon files that define the voice commands for different applications. Talon is a machine learning tool, which can help us interact with the computer using voice.
+Note: Talon scripts folder contains Python scripts and Talon files that define the voice commands for different applications. Talon is a machine learning tool which can help us interact with the computer using voice.
